@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RetrofitRealmPicLoad</string>
+    <string name="AppCount">AppCount</string>
+    <string name="AppType">AppType</string>
+    <string name="AppName">AppName</string>
+    <string name="AppBundleId">AppBundleId</string>
+    <string name="AppReleaseVersion">AppReleaseVersion</string>
+</resources>
